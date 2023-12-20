@@ -1,0 +1,5 @@
+__pycache__
+.venv
+.mypy_cache
+face_recognition_fastapi.egg-info
+.ipynb_checkpoints
